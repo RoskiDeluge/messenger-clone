@@ -1,5 +1,5 @@
-# Aleph Web
+# Messenger Clone
 
-Nextjs 13 web app to chat with ChatGPT new endpoint: gpt-3.5-turbo
+Nextjs 13 web app that clones facebook messenger
 
 Build based on Papa React's tutorial: https://www.youtube.com/watch?v=T2jKJF4BZOY
